@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyGPIO",
+        "repositoryURL": "https://github.com/Kaiede/SwiftyGPIO.git",
+        "state": {
+          "branch": null,
+          "revision": "ee280393b1eadc169d3828e0d6c71de9c4523dcf",
+          "version": "1.0.9"
+        }
+      },
+      {
+        "package": "PCA9685",
+        "repositoryURL": "https://github.com/ezrover/SwiftyServo.git",
+        "state": {
+          "branch": null,
+          "revision": "27d9b0622f15da1574d4bee2a504bfed1bbed2ff",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
